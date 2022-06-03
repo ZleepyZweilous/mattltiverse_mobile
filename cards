@@ -14,4 +14,4 @@ STSG0000;The Ironclad;Base Set;0;Slay the Spire:General;[6,7,5,2];The remaining 
 STSG0001;The Silent;Base Set;1;Slay the Spire:General;[8,10,4,10];A deadly huntress from the foglands. Eradicates foes with daggers and poisons.;3;Deal damage to a target unit equal to this unit's |speed|.;2
 STSG0002;The Defect;Base Set;2;Slay the Spire:General;[11,16,7,8];Combat automaton which became self-aware. Ancient technology allows manipulation of Orbs.;2;Create three 2-|star| Zap in hand.;3
 SPLL0001;Zap;Base Set;1;Spells:General;[0,0,0,0];A zap of electricity.;1;A target loses |health| equal to this unit's |stars|.;2
-STSG0003;The Watcher;Base Set;3;Slay the Spire:General;[12,19,13,10];4;Double a unit's |attack| this turn.;4
+STSG0003;The Watcher;Base Set;3;Slay the Spire:General;[12,19,13,10];A blind ascetic who has come to "Evaluate" the Spire. Master of the divine Stances.;4;Double a unit's |attack| this turn.;4
