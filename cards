@@ -1,1 +1,17 @@
 RLTY0000;Matt;Base Set;6;Reality:General;[20,8,5,9];That's you. The player. Of this game. I hope. Or something like that.;3;Search your deck for a card and place it into your hand.;3
+UDMN0000;Black Rabbit;Base Set;3;Undermine:General;[10,10,14,20];Black Rabbit's a cute minigame host from Undermine.;3;Steal a card from your opponent's hand.;4
+UDMN0001;Arkanos, the Archmage;Base Set;5;Undermine:General;[12,30,15,7];Archmage of Delvemore (I think);2;Create a Magic Bolt in hand. It has one third of this unit's |attack|.;5
+SPLL0000;Magic Bolt;Base Set;0;Spells:General;[0,3,0,0];A bolt of magical energy.;0;Deal damage equal to this unit's |attack| to a target unit.;1
+UDMN0002;Death's Hand;Base Set;4;Undermine:General;[20,14,20,10];A powerful knight with the ability to summon the ancients;6;Revive a dead unit.;5
+UDMN0003;Dodson;Base Set;0;Undermine:General;[8,9,1,2];The bombsmith of the undermine.;4;Place a bomb on any tile. It blows up in two turns, dealing this unit's |attack| to adjacent units.;1
+UDMN0004;Hoodie;Base Set;1;Undermine:General;[7,5,8,12];Cartographer of the undermine.;3;Move an allied unit by this unit's |speed|.;2
+UDMN0005;Lillyth;Base Set;2;Undermine:General;[10,8,14,10];Priestess of the Din.;4;Heal a unit for half of this unit's |attack|.;3
+UDMN0006;The Gatekeeper;Base Set;2;Undermine:General;[9, 15, 9, 9];;5;Use the ability of an allied unit in play.;3
+UDMN0007;Valeen, the Crone;Base Set;0;Undermine:General;[4,8,4,4];The witch of Gnarled Knoll.;4;Reduce a unit's |attack| by 4.;1
+UDMN0008;Wayland;Base Set;0;Undermine:General;[5,9,4,2];The blacksmith of the undermine.;3;Create a copy of a card in hand.;1
+UDMN0009;Camilla;Base Set;1;Undermine:General;[4,10,4,2];The second disciplinarian of the undermine.;4;A target unit strikes all of its adjacent opponents.;2
+STSG0000;The Ironclad;Base Set;0;Slay the Spire:General;[6,7,5,2];The remaining soldier of the Ironclads. Sold his soul to harness demonic energies.;4;Increase a target unit's |defense| by 5;1
+STSG0001;The Silent;Base Set;1;Slay the Spire:General;[8,10,4,10];A deadly huntress from the foglands. Eradicates foes with daggers and poisons.;3;Deal damage to a target unit equal to this unit's |speed|.;2
+STSG0002;The Defect;Base Set;2;Slay the Spire:General;[11,16,7,8];Combat automaton which became self-aware. Ancient technology allows manipulation of Orbs.;2;Create three 2-|star| Zap in hand.;3
+SPLL0001;Zap;Base Set;1;Spells:General;[0,0,0,0];A zap of electricity.;1;A target loses |health| equal to this unit's |stars|.;2
+STSG0003;The Watcher;Base Set;3;Slay the Spire:General;[12,19,13,10];4;Double a unit's |attack| this turn.;4
