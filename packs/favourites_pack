@@ -1,0 +1,12 @@
+Favourites
+// First line should be the pack name
+// double slash are commented lines
+// each line should be `card id:weight`
+// weights do not need to add up to 100, but if `default` is not included it will be assumed to add to the nearest hundred.
+MTVS0000:1
+UDMN0000:1
+STWS0001:1
+STWS0005:1
+STWS0009:1
+STWS0010:1
+default:94
