@@ -15,3 +15,9 @@ STSG0001;The Silent;Base Set;1;Slay the Spire:General;[8,10,4,10];['Rogue', 'Wra
 STSG0002;The Defect;Base Set;2;Slay the Spire:General;[11,16,7,8];['Robot', 'Mage', 'Defector'];Combat automaton which became self-aware. Ancient technology allows manipulation of Orbs.;2;Create three 2-|star| Zap in hand.;3
 SPLL0001;Zap;Base Set;1;Spells:General;[0,0,0,0];['Spell'];A zap of electricity.;1;A target loses |health| equal to this unit's |stars|.;2
 STSG0003;The Watcher;Base Set;3;Slay the Spire:General;[12,19,13,10];['Monk'];A blind ascetic who has come to "Evaluate" the Spire. Master of the divine Stances.;4;Double a unit's |attack| this turn.;4
+DCDG0000;Warrior;Base Set;1;Dicey Dungeons:General;[13,9,5,5];['Knight'];The Warrior entered the dicey dungeons to win super strength and a monster truck.;4;The next card you play is played twice.;2
+DCDG0001;Thief;Base Set;2;Dicey Dungeons:General;[8,10,10,14];['Rogue'];The Thief entered the dicey dungeons to win a billion dollars.;6;Use tha ability of an opponent's unit in play.;3
+DCDG0002;Robot;Base Set;5;Dicey Dungeons:General;[16,16,16,16];['Robot'];The Robot entered the dicey dungeons to win a life without sleep.;0;Gain between 1 and 6 energy. If your energy is above 5, discard 3 random cards.;5
+DCDG0003;Inventor;Base Set;1;Dicey Dungeons:General;[11,10,6,5];['Smith','Tinkerer'];The Inventor entered the dicey dungeons to win ultimate knowledge;3;Move a unit from the board to your hand. Summon a unit from your hand in its place.;2
+DCDG0004;Witch;Base Set;0;Dicey Dungeons:General;[6,6,4,4];['Mage'];The Witch entered the dicey dungeons to win ten million followers on social media.;2;Place a card from your hand on top of your deck. It costs 0 next turn.;1
+DCDG0005;Jester;Base Set;4;Dicey Dungeons:General;[19,13,13,19];['Mage'];The Jester was once an assistant to Lady Luck herself.;4;Use a random card from your hand. Draw a card.;5
