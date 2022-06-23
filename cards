@@ -1,22 +1,22 @@
 RLTY0000;Matt;Base Set;6;Reality:General;[16,20,12,25,19,1.5];[1,2,1,4,8,0];['Artist'];That's you. The player. Of this game. I hope. Or something like that.;
 UDMN0000;Black Rabbit;Base Set;3;Undermine:General;[20,20,19,31,5,1.5];[1,3,3,4,2,0];['Rogue', 'Street Urchin'];Black Rabbit's a cute minigame host from Undermine.;Lucky Charm: When taking lethal damage, Black Rabbit has a 5% chance to survive at 1 |health|.
-UDMN0001;Arkanos, the Archmage;Base Set;5;Undermine:General;[22,27,21,10,5,1.5];[6,7,6,4,0,0];['Mage', 'Opulent'];Archmage of Delvemore (I think);Vessel of Din: The first time Arkanos falls below 50% |health|, he transforms into Din.
-UDMN0002;Din;Base Set;6;Undermine:General;[];[];['King', 'Old God'];;
+UDMN0001;Arkanos, the Archmage;Base Set;5;Undermine:General;[22,27,21,10,5,1.5];[6,7,6,4,0,0];['Mage', 'Opulent'];Archmage of Delvemore (I think);Vessel of Din: The first time Arkanos falls below 50% |health|, he transforms into Din, the Old King.
+UDMN0002;Din, the Old King;Base Set;6;Undermine:General;[];[];['King'];;
 UDMN0003;Death's Hand;Base Set;4;Undermine:General;[30,23,33,14,5,1.5];[3,2,4,3,0,0];['Knight'];A powerful knight with the ability to summon the ancients;Summoning Stone: If Death's Hand is the last surviving ally, revive all other allies at 50% |health|.
 UDMN0004;Lillyth;Base Set;2;Undermine:General;[21,16,24,19,5,1.5];[3,2,3,4,0,0];['Priestess'];Priestess of the Din.;Instead of attacking, Lillyth heals a damaged ally for 7% of their |health|.
 UDMN0005;Valeen, the Crone;Base Set;0;Undermine:General;[14,18,14,14,5,1.5];[3,3,3,3,0,0];['Mage'];The witch of Gnarled Knoll.;Valeen's attacks reduce the target's |attack| and |defense| by 1.
 UDMN0006;Wayland;Base Set;0;Undermine:General;[18,14,19,9,5,1.5];[3,2,4,3,0,0];['Smith'];The blacksmith of the undermine.;Wayland's attacks increase allies' |attack| by 1.
 UDMN0007;Camilla;Base Set;1;Undermine:General;[14,20,19,17,5,1.5];[3,2,4,3,0,0];['Enforcer'];The second disciplinarian of the undermine.;Camilla's attacks increase allies' |speed| by 1.
-STSG0000;The Ironclad;Base Set;0;Slay the Spire:General;[6,7,5,2];[];['Knight', 'Demon'];The remaining soldier of the Ironclads. Sold his soul to harness demonic energies.;
-STSG0001;The Silent;Base Set;1;Slay the Spire:General;[8,10,4,10];[];['Rogue', 'Wraith'];A deadly huntress from the foglands. Eradicates foes with daggers and poisons.;
-STSG0002;The Defect;Base Set;2;Slay the Spire:General;[11,16,7,8];[];['Robot', 'Mage', 'Defector'];Combat automaton which became self-aware. Ancient technology allows manipulation of Orbs.;
-STSG0003;The Watcher;Base Set;3;Slay the Spire:General;[12,19,13,10];[];['Monk'];A blind ascetic who has come to "Evaluate" the Spire. Master of the divine Stances.;
-DCDG0000;Warrior;Base Set;1;Dicey Dungeons:General;[13,9,5,5];[];['Knight'];The Warrior entered the dicey dungeons to win super strength and a monster truck.;
-DCDG0001;Thief;Base Set;2;Dicey Dungeons:General;[8,10,10,14];[];['Rogue'];The Thief entered the dicey dungeons to win a billion dollars.;
-DCDG0002;Robot;Base Set;5;Dicey Dungeons:General;[16,16,16,16];[];['Robot'];The Robot entered the dicey dungeons to win a life without sleep.;
-DCDG0003;Inventor;Base Set;1;Dicey Dungeons:General;[11,10,6,5];[];['Smith','Tinkerer'];The Inventor entered the dicey dungeons to win ultimate knowledge;
-DCDG0004;Witch;Base Set;0;Dicey Dungeons:General;[6,6,4,4];[];['Mage'];The Witch entered the dicey dungeons to win ten million followers on social media.;
-DCDG0005;Jester;Base Set;4;Dicey Dungeons:General;[19,13,13,19];[];['Mage'];The Jester was once an assistant to Lady Luck herself.;
+STSG0000;The Ironclad;Base Set;0;Slay the Spire:General;[16,17,15,12,5,1.5];[3,3,4,2,0,0];['Knight', 'Demon'];The remaining soldier of the Ironclads. Sold his soul to harness demonic energies.;The Ironclad's attacks increase his |attack| by 2.
+STSG0001;The Silent;Base Set;1;Slay the Spire:General;[15,15,20,20,5,1.5];[1,2,3,3,6,0];['Rogue', 'Wraith'];A deadly huntress from the foglands. Eradicates foes with daggers and poisons.;The Silent's attacks apply the Poison debuff to the target.
+STSG0002;The Defect;Base Set;2;Slay the Spire:General;[20,20,24,16,5,1.5];[2,4,4,2,0,0];['Robotic', 'Mage', 'Defector'];Combat automaton which became self-aware. Ancient technology allows manipulation of Orbs.;The Defect's attacks increase one random stat by 3 and lower another random stat by 2.
+STSG0003;The Watcher;Base Set;3;Slay the Spire:General;[22,29,23,16,5,1.5];[1,3,3,2,2,0.1];['Monk'];A blind ascetic who has come to "Evaluate" the Spire. Master of the divine Stances.;The Watcher deals and receives double damage.
+DCDG0000;Warrior;Base Set;1;Dicey Dungeons:General;[23,19,15,13,5,1.5];[3,4,3,2,0,0];['Knight'];The Warrior entered the dicey dungeons to win super strength and a monster truck.;When the Warrior is played, draw a card.
+DCDG0001;Thief;Base Set;2;Dicey Dungeons:General;[10,20,16,24,15,1.75];[1,2,1,5,2,0.1];['Rogue'];The Thief entered the dicey dungeons to win a billion dollars.;When attacking, the Thief has the passive of the target.
+DCDG0002;Robot;Base Set;5;Dicey Dungeons:General;[16,32,32,16,9,1.6];[2,4,2,4,0,0];['Robotic'];The Robot entered the dicey dungeons to win a life without sleep.;When the Robot attacks, Robotic allies have a 16.7% chance of attacking.
+DCDG0003;Inventor;Base Set;1;Dicey Dungeons:General;[21,23,18,8,5,1.5];[4,4,4,0,0,0];['Smith','Tinkerer'];The Inventor entered the dicey dungeons to win ultimate knowledge;After attacking, the Inventor swaps the oldest ally with an ally in hand.
+DCDG0004;Witch;Base Set;0;Dicey Dungeons:General;[16,16,16,12,5,1.5];[3,3,3,3,0,0];['Mage'];The Witch entered the dicey dungeons to win ten million followers on social media.;When attacking, the Witch has the passive of a random ally.
+DCDG0005;Jester;Base Set;4;Dicey Dungeons:General;[31,19,19,31,5,1.5];[1,1,1,1,12,0.1];['Mage'];The Jester was once an assistant to Lady Luck herself.;When drawn, the Jester makes a copy of a random card in hand.
 STWS0000;Boba Fett;Base Set;3;Star Wars:Original Trilogy;[10,19,15,10];[];['Bounty Hunter', 'Mandalorian', 'Street Urchin', 'Empire'];Boba Fett was an unaltered clone of Jango Fett, originally named Alpha.;
 STWS0001;Anakin Skywalker;Base Set;0;Star Wars:Prequel Trilogy;[3,10,2,5];[];['Jedi','Republic','Tinkerer','Non-Conformist'];Anakin Skywalker had the highest Midichlorian count ever recorded, at 27000.;
 STWS0002;Obi-Wan Kenobi;Base Set;1;Star Wars:Prequel Trilogy;[11,7,10,4];[];['Jedi', 'Republic'];Though he originally studied Form IV under Qui-Gon Jinn, Obi-Wan became a master of Form III after his master's death.;
