@@ -1,19 +1,15 @@
-RLTY0000;Matt;Base Set;6;Reality:General;[20,8,5,9];[];['Artist'];That's you. The player. Of this game. I hope. Or something like that.;
-UDMN0000;Black Rabbit;Base Set;3;Undermine:General;[10,10,14,20];[];['Rogue', 'Street Urchin'];Black Rabbit's a cute minigame host from Undermine.;
-UDMN0001;Arkanos, the Archmage;Base Set;5;Undermine:General;[12,30,15,7];[];['Mage'];Archmage of Delvemore (I think);
-SPLL0000;Magic Bolt;Base Set;0;Spells:General;[0,3,0,0];[];['Spell'];A bolt of magical energy.;
-UDMN0002;Death's Hand;Base Set;4;Undermine:General;[20,14,20,10];[];['Knight'];A powerful knight with the ability to summon the ancients;
-UDMN0003;Dodson;Base Set;0;Undermine:General;[8,9,1,2];[];['Smith'];The bombsmith of the undermine.;
-UDMN0004;Hoodie;Base Set;1;Undermine:General;[7,5,8,12];[];['Cartographer'];Cartographer of the undermine.;
-UDMN0005;Lillyth;Base Set;2;Undermine:General;[10,8,14,10];[];['Priestess'];Priestess of the Din.;
-UDMN0006;The Gatekeeper;Base Set;2;Undermine:General;[9, 15, 9, 9];[];[];The Gatekeeper guides people to the Othermine.;
-UDMN0007;Valeen, the Crone;Base Set;0;Undermine:General;[4,8,4,4];[];['Mage'];The witch of Gnarled Knoll.;
-UDMN0008;Wayland;Base Set;0;Undermine:General;[5,9,4,2];[];['Smith'];The blacksmith of the undermine.;
-UDMN0009;Camilla;Base Set;1;Undermine:General;[4,10,4,2];[];['Enforcer'];The second disciplinarian of the undermine.;
+RLTY0000;Matt;Base Set;6;Reality:General;[16,20,12,25,19,1.5];[1,2,1,4,8,0];['Artist'];That's you. The player. Of this game. I hope. Or something like that.;
+UDMN0000;Black Rabbit;Base Set;3;Undermine:General;[20,20,19,31,5,1.5];[1,3,3,4,2,0];['Rogue', 'Street Urchin'];Black Rabbit's a cute minigame host from Undermine.;Lucky Charm: When taking lethal damage, Black Rabbit has a 5% chance to survive at 1 |health|.
+UDMN0001;Arkanos, the Archmage;Base Set;5;Undermine:General;[22,27,21,10,5,1.5];[6,7,6,4,0,0];['Mage', 'Opulent'];Archmage of Delvemore (I think);Vessel of Din: The first time Arkanos falls below 50% |health|, he transforms into Din.
+UDMN0002;Din;Base Set;6;Undermine:General;[];[];['King', 'Old God'];;
+UDMN0003;Death's Hand;Base Set;4;Undermine:General;[30,23,33,14,5,1.5];[3,2,4,3,0,0];['Knight'];A powerful knight with the ability to summon the ancients;Summoning Stone: If Death's Hand is the last surviving ally, revive all other allies at 50% |health|.
+UDMN0004;Lillyth;Base Set;2;Undermine:General;[21,16,24,19,5,1.5];[3,2,3,4,0,0];['Priestess'];Priestess of the Din.;Instead of attacking, Lillyth heals a damaged ally for 7% of their |health|.
+UDMN0005;Valeen, the Crone;Base Set;0;Undermine:General;[14,18,14,14,5,1.5];[3,3,3,3,0,0];['Mage'];The witch of Gnarled Knoll.;Valeen's attacks reduce the target's |attack| and |defense| by 1.
+UDMN0006;Wayland;Base Set;0;Undermine:General;[18,14,19,9,5,1.5];[3,2,4,3,0,0];['Smith'];The blacksmith of the undermine.;Wayland's attacks increase allies' |attack| by 1.
+UDMN0007;Camilla;Base Set;1;Undermine:General;[14,20,19,17,5,1.5];[3,2,4,3,0,0];['Enforcer'];The second disciplinarian of the undermine.;Camilla's attacks increase allies' |speed| by 1.
 STSG0000;The Ironclad;Base Set;0;Slay the Spire:General;[6,7,5,2];[];['Knight', 'Demon'];The remaining soldier of the Ironclads. Sold his soul to harness demonic energies.;
 STSG0001;The Silent;Base Set;1;Slay the Spire:General;[8,10,4,10];[];['Rogue', 'Wraith'];A deadly huntress from the foglands. Eradicates foes with daggers and poisons.;
 STSG0002;The Defect;Base Set;2;Slay the Spire:General;[11,16,7,8];[];['Robot', 'Mage', 'Defector'];Combat automaton which became self-aware. Ancient technology allows manipulation of Orbs.;
-SPLL0001;Zap;Base Set;1;Spells:General;[0,0,0,0];[];['Spell'];A zap of electricity.;
 STSG0003;The Watcher;Base Set;3;Slay the Spire:General;[12,19,13,10];[];['Monk'];A blind ascetic who has come to "Evaluate" the Spire. Master of the divine Stances.;
 DCDG0000;Warrior;Base Set;1;Dicey Dungeons:General;[13,9,5,5];[];['Knight'];The Warrior entered the dicey dungeons to win super strength and a monster truck.;
 DCDG0001;Thief;Base Set;2;Dicey Dungeons:General;[8,10,10,14];[];['Rogue'];The Thief entered the dicey dungeons to win a billion dollars.;
