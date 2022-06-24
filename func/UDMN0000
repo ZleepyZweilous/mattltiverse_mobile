@@ -1,6 +1,5 @@
 import random
 
-def on_take_damage(self, damage):
-    if self.curhp <= 0:
-        if random.random() < 0.05:
-            self.curhp = 1
+def on_die(self):
+    if random.random() < 0.05:
+        self.curhp = 1
