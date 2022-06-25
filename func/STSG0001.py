@@ -1,2 +1,2 @@
 def post_strike(self, var):
-    pass
+    var.cur_target.add_debuff("Poison")
