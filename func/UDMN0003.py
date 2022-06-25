@@ -9,4 +9,5 @@ def on_ally_die(self, ally):
     if len(self.allies(self.NONINST(self))) == 0:
         target = random.choice(self.allies(self.NONINST(self), False))
         target.dead = False
-        target.curhp = round(target.stats[0] / 2)
+#         target.curhp = round(target.stats[0] / 2)
+        target.heal(target.stats[0] / 2)
