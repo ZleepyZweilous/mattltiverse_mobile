@@ -1,9 +1,11 @@
 Favourites
 // First line should be the pack name
+200;None;None;False
+// Second line should be the metadata (Cost, Set, Universe, Guaranteed 5*)
 // double slash are commented lines
 // each line should be `card id:weight`
 // weights do not need to add up to 100, but if `default` is not included it will be assumed to add to the nearest hundred.
-MTVS0000:1
+// MTVS0000:1
 UDMN0000:1
 STWS0001:1
 STWS0005:1
